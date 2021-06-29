@@ -34,6 +34,7 @@ public class Test01 {
         String pwd = "123";
         String md5 = MD5Util.getMD5(pwd);
         System.out.println(md5);
+        //just a test
     }
 
 }
